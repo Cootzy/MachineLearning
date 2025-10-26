@@ -30,9 +30,6 @@ MachineLearning/
 ├── pertemuan_6/ # Model Deployment (Flask API)
 └── pertemuan_7/ # Artificial Neural Network (ANN)
 
-yaml
-Copy code
-
 ---
 
 ## 🧩 Ringkasan Tiap Pertemuan / Summary of Each Meeting
